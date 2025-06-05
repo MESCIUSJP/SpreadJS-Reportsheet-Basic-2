@@ -1,5 +1,5 @@
 # SpreadJS-Reportsheet-Basic-2
-SpreadJSの帳票開発機能「レポートシート」で作成した帳票アプリケーションで、印刷、およびPDFやExcelへのエクスポートを行うサンプルです。
+SpreadJSの帳票開発機能「レポートシート」で作成した帳票アプリケーションで、印刷、およびPDFやExcelへのエクスポートを行うサンプルです。  
 （https://devlog.mescius.jp/spreadjs-reportsheet-basic-2-print-export/）
 
 https://github.com/user-attachments/assets/c4c51899-d4f5-4412-a495-efb5a6c443d5
