@@ -1,0 +1,64 @@
+{
+    "products":[
+      {
+        "ProductID": 1,
+        "ProductName": "果汁100% オレンジ",
+        "QuantityPerUnit": "200g×12瓶",
+        "UnitPrice": 2000
+      },
+      {
+        "ProductID": 2,
+        "ProductName": "果汁100% グレープ",
+        "QuantityPerUnit": "200g×12瓶",
+        "UnitPrice": 2000
+      },
+      {
+        "ProductID": 3,
+        "ProductName": "果汁100% レモン",
+        "QuantityPerUnit": "200g×12瓶",
+        "UnitPrice": 2000
+      },
+      {
+        "ProductID": 4,
+        "ProductName": "コーヒーマイルド",
+        "QuantityPerUnit": "195g×10缶",
+        "UnitPrice": 1900
+      },
+      {
+        "ProductID": 5,
+        "ProductName": "コーヒービター",
+        "QuantityPerUnit": "195g×10缶",
+        "UnitPrice": 1900
+      },
+      {
+        "ProductID": 6,
+        "ProductName": "ピリピリ ビール",
+        "QuantityPerUnit": "350ml×24本",
+        "UnitPrice": 3000
+      },
+      {
+        "ProductID": 7,
+        "ProductName": "オタル白ラベル",
+        "QuantityPerUnit": "350ml×24本",
+        "UnitPrice": 3500
+      },
+      {
+        "ProductID": 8,
+        "ProductName": "バードワイン",
+        "QuantityPerUnit": "500ml×12瓶",
+        "UnitPrice": 6000
+      },
+      {
+        "ProductID": 9,
+        "ProductName": "ホワイトソルト",
+        "QuantityPerUnit": "1kg×12袋",
+        "UnitPrice": 2600
+      },
+      {
+        "ProductID": 10,
+        "ProductName": "ブラックペッパー",
+        "QuantityPerUnit": "30g×30本",
+        "UnitPrice": 2100
+      }
+    ]
+}

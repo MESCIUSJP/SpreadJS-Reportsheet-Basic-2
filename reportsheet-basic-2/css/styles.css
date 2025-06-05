@@ -1,0 +1,22 @@
+body {
+    width: 610px;
+}
+
+.show-area {
+    margin: 15px;
+    border: solid black;
+}
+
+#ss {
+    width: 575px;
+    height: 620px;
+}
+
+.button{
+    margin: 5px 0px 0px 15px;
+    font-size: 16px;
+}
+
+.button.export{
+    margin: 5px 0px 0px 5px;
+}
